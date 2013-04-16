@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://maojj.github.io/atom.xml" rel="self"/>
   <link href="http://maojj.github.io/"/>
-  <updated>2013-04-17T00:07:55+08:00</updated>
+  <updated>2013-04-17T00:24:06+08:00</updated>
   <id>http://maojj.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -18,12 +18,30 @@
     <link href="http://maojj.github.io/blog/2013/04/16/markdown-syntax/"/>
     <updated>2013-04-16T21:00:00+08:00</updated>
     <id>http://maojj.github.io/blog/2013/04/16/markdown-syntax</id>
-    <content type="html"><![CDATA[<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+    <content type="html"><![CDATA[<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 <span class='line-number'>2</span>
 <span class='line-number'>3</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>@class 
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+</pre></td><td class='code'><pre><code class='objective-c'><span class='line'><span class="cp">#import &lt;Foundation/Foundation.h&gt;</span>
 </span><span class='line'>
-</span><span class='line'>@property
+</span><span class='line'><span class="cm">/**</span>
+</span><span class='line'><span class="cm"> MD5加密</span>
+</span><span class='line'><span class="cm">  */</span>
+</span><span class='line'><span class="k">@interface</span> <span class="nc">MD5Encrypt</span> : <span class="nc">NSObject</span> <span class="p">{</span>
+</span><span class='line'>
+</span><span class='line'><span class="p">}</span>
+</span><span class='line'>
+</span><span class='line'><span class="o">+</span> <span class="p">(</span><span class="n">NSString</span><span class="o">*</span><span class="p">)</span><span class="nl">encrypt:</span> <span class="p">(</span><span class="n">NSString</span><span class="o">*</span><span class="p">)</span> <span class="n">str</span><span class="p">;</span>
+</span><span class='line'>
+</span><span class='line'><span class="k">@end</span>
 </span></code></pre></td></tr></table></div></figure>
 
 
@@ -50,7 +68,7 @@ Like, seriously, a <em>LOT</em> of text</strong></p>
 
 <h4>Links and Email</h4>
 
-<p>An email <a href="&#x6d;&#97;&#105;&#x6c;&#116;&#111;&#58;&#x65;&#x78;&#x61;&#109;&#x70;&#108;&#101;&#x40;&#x65;&#x78;&#97;&#109;&#112;&#x6c;&#101;&#x2e;&#x63;&#111;&#109;">&#x65;&#120;&#97;&#109;&#x70;&#x6c;&#101;&#x40;&#101;&#120;&#x61;&#109;&#x70;&#108;&#x65;&#x2e;&#x63;&#x6f;&#x6d;</a> link.</p>
+<p>An email <a href="&#109;&#97;&#105;&#x6c;&#116;&#111;&#58;&#101;&#x78;&#97;&#x6d;&#112;&#108;&#101;&#x40;&#x65;&#x78;&#97;&#x6d;&#x70;&#108;&#101;&#x2e;&#x63;&#111;&#x6d;">&#101;&#x78;&#97;&#x6d;&#x70;&#108;&#x65;&#x40;&#x65;&#x78;&#97;&#x6d;&#x70;&#x6c;&#101;&#46;&#x63;&#111;&#109;</a> link.</p>
 
 <p>Simple inline link <a href="http://chenluois.com">http://chenluois.com</a>, another inline link <a href="http://smallerapp.com">Smaller</a>, one more inline link with title <a href="http://resizesafari.com" title="a Safari extension">Resize</a>.</p>
 
