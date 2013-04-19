@@ -4,7 +4,7 @@
   <title><![CDATA[Category: iOS | My Octopress Blog]]></title>
   <link href="http://maojj.github.io/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://maojj.github.io/"/>
-  <updated>2013-04-19T19:36:53+08:00</updated>
+  <updated>2013-04-19T19:57:50+08:00</updated>
   <id>http://maojj.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -22,13 +22,27 @@
 
 <h3>KSImageNamed</h3>
 
+<hr />
+
 <p><a href="https://github.com/ksuther/KSImageNamed-Xcode">https://github.com/ksuther/KSImageNamed-Xcode</a></p>
 
 <p> <img src="https://raw.github.com/ksuther/KSImageNamed-Xcode/master/screenshot.png" alt="screenShot" /></p>
 
 <h3>Lin</h3>
 
+<hr />
+
+<p><a href="https://github.com/questbeat/Lin">https://github.com/questbeat/Lin</a></p>
+
+<p><img src="https://a248.e.akamai.net/camo.github.com/6c4fc4630543be9addbb384133d07074866d0a8a/687474703a2f2f61646f746f75742e73616b7572612e6e652e6a702f6769746875622f4c696e2f6c696e5f737330322e706e67" alt="screenShot" /></p>
+
 <h3>OMColorSense</h3>
+
+<hr />
+
+<p><a href="https://github.com/omz/ColorSense-for-Xcode">https://github.com/omz/ColorSense-for-Xcode</a></p>
+
+<p><img src="ColorSense-screenShot.png" alt="screenShot" /></p>
 ]]></content>
   </entry>
   
