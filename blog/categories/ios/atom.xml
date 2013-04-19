@@ -4,7 +4,7 @@
   <title><![CDATA[Category: iOS | My Octopress Blog]]></title>
   <link href="http://maojj.github.io/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://maojj.github.io/"/>
-  <updated>2013-04-19T19:57:50+08:00</updated>
+  <updated>2013-04-19T20:02:27+08:00</updated>
   <id>http://maojj.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -42,7 +42,7 @@
 
 <p><a href="https://github.com/omz/ColorSense-for-Xcode">https://github.com/omz/ColorSense-for-Xcode</a></p>
 
-<p><img src="ColorSense-screenShot.png" alt="screenShot" /></p>
+<p><img src="/images/ColorSense-screenShot.png" alt="screenShot" /></p>
 ]]></content>
   </entry>
   
