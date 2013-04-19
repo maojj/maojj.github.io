@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: iOS | My Octopress Blog]]></title>
+  <link href="http://maojj.github.io/blog/categories/ios/atom.xml" rel="self"/>
+  <link href="http://maojj.github.io/"/>
+  <updated>2013-04-19T19:27:38+08:00</updated>
+  <id>http://maojj.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Xcode Plugins]]></title>
+    <link href="http://maojj.github.io/blog/2013/04/19/xcode-plugins/"/>
+    <updated>2013-04-19T19:22:00+08:00</updated>
+    <id>http://maojj.github.io/blog/2013/04/19/xcode-plugins</id>
+    <content type="html"><![CDATA[<h1>Xcode Plugins</h1>
+
+<p>最近发现好几个比较不错的Xcode插件，所以整理一下</p>
+
+<h3>KSImageNamed</h3>
+
+<h3>Lin</h3>
+
+<h3>OMColorSense</h3>
+]]></content>
+  </entry>
+  
+</feed>
